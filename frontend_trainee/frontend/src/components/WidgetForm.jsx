@@ -96,6 +96,7 @@ const WidgetForm = ({ onAdd, onCancel }) => {
           Add
         </button>
         <button onClick={onCancel} style={{ ...styles.button, ...styles.cancelButton }}>
+
           Cancel
         </button>
       </div>
@@ -104,3 +105,4 @@ const WidgetForm = ({ onAdd, onCancel }) => {
 };
 
 export default WidgetForm;
+
