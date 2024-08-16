@@ -1,3 +1,5 @@
 # command to run Project
-cd frontend
+#open folder
+cd frontend  
+# run project
 npm start
